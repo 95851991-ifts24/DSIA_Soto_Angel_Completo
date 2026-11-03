@@ -39,5 +39,17 @@ A diferencia de los demás trabajos prácticos, esta actividad no requirió desa
 - [Consultar historial de commits](https://github.com/95851991-ifts24/DSIA_Soto_Angel_Completo/commits/main/)
 
 ### TP 05: Trabajo Práctico Integrador (TPI)
-**Bajada Descriptiva:** El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicado de análisis de datos e inteligencia artificial a lo largo de distintas etapas.
-* **Enlace:** [TPI-EDA/](TPI-EDA/)
+
+**Descripción:** Proyecto grupal desarrollado en etapas para aplicar técnicas de ciencia de datos e inteligencia artificial. El equipo comenzó con la exploración y comparación de datasets, seleccionó *Delivery Market Argentina* para profundizar en la limpieza y el análisis estadístico, y posteriormente entrenó y evaluó modelos predictivos del tiempo de entrega. Los datos de Delivery son sintéticos y se utilizan con fines académicos.
+
+**Enlace principal:** [📁 Trabajo Práctico Integrador](./005-TPI-EDA/)
+
+#### Organización del proyecto
+
+| Carpeta | Contenido |
+|---|---|
+| [📊 Dataset Proyecto](./005-TPI-EDA/Dataset%20Proyecto/) | Conjuntos de datos utilizados en los análisis. |
+| [📘 Primera entrega](./005-TPI-EDA/Primera_Entrega/) | Exploración inicial y comparación de datasets. |
+| [📗 Segunda entrega](./005-TPI-EDA/Segunda_Entrega/) | Limpieza, visualizaciones y evaluación de cuatro hipótesis. |
+| [📕 Tercera entrega](./005-TPI-EDA/Tercera_Entrega/) | Entrenamiento y comparación de modelos de aprendizaje automático. |
+| [📝 Devoluciones docentes](./005-TPI-EDA/Devoluciones/) | Observaciones y devoluciones de la profesora. |
