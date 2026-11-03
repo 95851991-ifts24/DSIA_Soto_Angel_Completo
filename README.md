@@ -27,8 +27,16 @@ El aprendizaje práctico en entornos colaborativos como Deepnote y la estructura
 * **Enlace:** [003-PythonLibrerias/](003-PythonLibrerias/)
 
 ### TP 04: Control de Versiones con Git y GitHub
-**Bajada Descriptiva:** En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos.
-* **Enlace:** [004-GitGithub/](004-GitGithub/)
+**Descripción:** Esta actividad tuvo como objetivo introducir el uso de Git y GitHub como herramientas de control de versiones y organización de proyectos de Ciencia de Datos.
+
+Se trabajó en la creación y organización de un repositorio público destinado a almacenar los ejercicios y trabajos prácticos desarrollados durante la materia, incluyendo las actividades de Deepnote, introducción a Python y librerías de análisis de datos.
+
+A diferencia de los demás trabajos prácticos, esta actividad no requirió desarrollar un notebook independiente, ya que el propio repositorio constituye la evidencia de su realización.
+
+**Evidencias:**
+
+- [Ver repositorio público de DSIA 2026](https://github.com/95851991-ifts24/DSIA_Soto_Angel_Completo)
+- [Consultar historial de commits](https://github.com/95851991-ifts24/DSIA_Soto_Angel_Completo/commits/main/)
 
 ### TP 05: Trabajo Práctico Integrador (TPI)
 **Bajada Descriptiva:** El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicado de análisis de datos e inteligencia artificial a lo largo de distintas etapas.
